@@ -1,3 +1,5 @@
+// https://open.kattis.com/problems/carrots
+
 #include <iostream>
 #include <sstream>
 

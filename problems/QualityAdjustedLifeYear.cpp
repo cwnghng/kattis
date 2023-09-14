@@ -1,3 +1,5 @@
+// https://open.kattis.com/problems/qaly
+
 #include <iostream>
 #include <sstream>
 #include <iomanip>

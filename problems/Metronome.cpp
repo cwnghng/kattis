@@ -1,3 +1,5 @@
+// https://open.kattis.com/problems/metronome
+
 #include <iostream>
 
 using namespace std;
